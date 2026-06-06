@@ -1,0 +1,10 @@
+
+env/
+venv/
+
+*.parquet
+data_train/
+output/
+
+__pycache__/
+*.pyc
